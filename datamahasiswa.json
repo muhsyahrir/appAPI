@@ -1,0 +1,56 @@
+[
+    {
+
+    "Nama" : "Muh. Syahrir",
+    "Kelas" : "3B  TKJ",
+    "Nim" : "42519040",
+    "hobi" : [
+        "Membaca",
+        "Menulis",
+        "Mengaji"
+    ],
+    "rimwayat hidup" : {
+        "SD" : "SDI Balaburu",
+        "SMP" : "SMPN 2 Bontonompo",
+        "SMA" : "SMAN 3 GOWA"
+    }
+
+},
+{
+
+    "Nama" :"Syahrir",
+    "Kelas" : "3B  TKJ",
+    "Nim" : "42519040",
+    "hobi" : [
+        "Membaca",
+        "Menulis",
+        "Mengaji"
+    ],
+    "rimwayat hidup" : {
+        "SD" : "SDI Balaburu",
+        "SMP" : "SMPN 2 Bontonompo",
+        "SMA" : "SMAN 3 GOWA"
+    }
+
+},
+{
+
+    "Nama" : "Syahrir riri",
+    "Kelas" : "3B  TKJ",
+    "Nim" : "42519040",
+    "hobi" : [
+        "Membaca",
+        "Menulis",
+        "Mengaji"
+    ],
+    "rimwayat hidup" : {
+        "SD" : "SDI Balaburu",
+        "SMP" : "SMPN 2 Bontonompo",
+        "SMA" : "SMAN 3 GOWA"
+    }
+
+}
+
+]
+
+
